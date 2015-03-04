@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "Shared js utility for experiment validation",
   "main": "./index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Jason Allen <allenjt@ldschurch.org>",
   "repository": {
     "type": "git",
