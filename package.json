@@ -1,9 +1,13 @@
 {
   "name": "xpr-util-validation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shared js utility for experiment validation",
   "main": "./index.js",
   "author": "Jason Allen <allenjt@ldschurch.org>",
+  "homepage": "https://github.com/XPRMNTL/xpr-util-validation.js",
+  "keywords": [
+    "XPRMNTL"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/XPRMNTL/xpr-util-validation.js"
@@ -11,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/XPRMNTL/xpr-util-validation.js/issues"
   },
-  "homepage": "https://github.com/XPRMNTL/xpr-util-validation.js",
   "devDependencies": {
     "chai": "^2.0.0",
     "mocha": "^2.1.0"
