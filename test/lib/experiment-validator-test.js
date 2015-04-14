@@ -9,7 +9,8 @@ var expect = require("chai").expect
     {name: '9InvalidExperimentName'},
     {name: 'Invalid-Experiment-Name'},
     {name: 'Invalid.Experiment.Name'},
-    {name: 'Invalid_Experiment_Name'}
+    {name: 'Invalid_Experiment_Name'},
+    {name: ''}
   ];
 
 
