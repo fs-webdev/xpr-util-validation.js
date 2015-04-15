@@ -1,6 +1,6 @@
 {
   "name": "xpr-util-validation",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Shared js utility for experiment validation",
   "main": "./index.js",
   "author": "Jason Allen <allenjt@ldschurch.org>",
